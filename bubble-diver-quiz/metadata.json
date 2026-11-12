@@ -1,0 +1,6 @@
+{
+  "name": "Coral Climb",
+  "description": "Educational underwater quiz adventure for kids aged 6-11 with Math and English levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
